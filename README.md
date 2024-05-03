@@ -9,7 +9,7 @@ Live link- https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/
 1. Mobile View <br /><br />
 <img align="left" alt ="LandingPageVertical" width="250" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/blob/master/assets/ss_one.png"></img>
 
-<img align="left" alt ="LandingPageHorizontal" width ="500" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/blob/master/assets/ss_two.png"></img>
+<img align="left" alt ="LandingPageHorizontal" width ="400" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/blob/master/assets/ss_two.png"></img>
 
 
 
