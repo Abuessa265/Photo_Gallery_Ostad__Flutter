@@ -15,7 +15,8 @@ Live link- https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 2. Laptop View  <br /><br />
-<img align="left" alt ="LandingPageVertical" width ="300" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/blob/master/assets/ss_three.png"></img>
+<img align="left" alt ="LandingPageVertical" width ="300" height="300" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/blob/master/assets/ss_three.png"></img>
 <br />
 <img align="center" alt ="LandingPageHorizontal" width ="400" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/blob/master/assets/ss_four.png"></img>
