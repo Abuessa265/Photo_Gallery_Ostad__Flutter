@@ -7,7 +7,7 @@ Using this live URL, you can preview the project. The device preview options all
 <br />
 # Screenshots
 `1. Landing Page` <br /><br />
-<img align="left" alt ="LandingPageVertical" width ="300" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/assets/74914169/12dbeb08-4550-41db-b9cd-36bff9b28558"></img>
+<img align="left" alt ="LandingPageVertical" width ="300" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/tree/89c3abc5295ee4de1661ed36438f7d9fe316fbd9/assets"></img>
 <img alt ="LandingPageHorizontal" width ="400" src="https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/assets/74914169/318bb408-620e-4d7f-98a0-1e21a43be9bb"></img>
 <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
