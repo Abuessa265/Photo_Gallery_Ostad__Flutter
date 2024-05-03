@@ -3,7 +3,7 @@
 The Flutter Photo Gallery application was created as an ostad assignment. This is a responsive photo gallery app that sends the user to the chosen album's detailed page after they select any album. The arrangement varies according to its orientation.
 # Project Live Link
 Using this live URL, you can preview the project. The device preview options allow you to select different device types based on your needs.<br />
-Live link- https://github.com/Abuessa265/Photo_Gallery_Ostad__Flutter/
+Live link- http://localhost:51466/
 <br />
 # Screenshots
 1. Mobile View <br /><br />
